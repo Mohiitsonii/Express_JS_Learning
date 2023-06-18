@@ -1,0 +1,22 @@
+{
+  "name": "express_js_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohitson112/Express_JS_Learning.git"
+  },
+  "author": "mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohitson112/Express_JS_Learning/issues"
+  },
+  "homepage": "https://github.com/Mohitson112/Express_JS_Learning#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
